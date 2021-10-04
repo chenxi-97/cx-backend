@@ -1,0 +1,9 @@
+spring:
+  profiles:
+     active: local
+mybatis:
+   mapperLocations: classpath:/mapper/*.xml
+
+server:
+  #端口号
+  port: 8888
