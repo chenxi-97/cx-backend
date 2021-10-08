@@ -1,16 +1,19 @@
 package com.example.cxbackend.controller;
 
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
-
-import javax.servlet.http.HttpServletRequest;
+import com.alibaba.fastjson.JSONObject;
+import com.example.cxbackend.service.UserService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.*;
 
 @RestController
+@RequestMapping("/user")
 public class UserController {
 
-    @GetMapping("/list")
-    public String listArticle() {
-        return "user";
+    @Autowired
+    private UserService userService;
+
+    @PostMapping("/addUser")
+    public JSONObject addUser(@RequestBody JSONObject requestJson){
+        return userService.addUser(requestJson);
     }
 }

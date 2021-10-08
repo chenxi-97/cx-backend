@@ -1,0 +1,546 @@
+2021-10-07 00:45:35.520 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h55m45s649ms).
+2021-10-07 08:35:51.753 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7h50m16s221ms).
+2021-10-07 08:36:00.133 DEBUG [][] [http-nio-8888-exec-3] c.e.c.dao.UserDao.addUser:137 - ==>  Preparing: INSERT INTO user (user) VALUES (?)
+2021-10-07 08:36:00.143 DEBUG [][] [http-nio-8888-exec-3] c.e.c.dao.UserDao.addUser:137 - ==> Parameters: cx(String)
+2021-10-07 08:36:00.182 DEBUG [][] [http-nio-8888-exec-3] c.e.c.dao.UserDao.addUser:137 - <==    Updates: 1
+2021-10-07 08:53:26.736 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m34s923ms).
+2021-10-07 08:59:22.712 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m55s966ms).
+2021-10-07 09:04:53.743 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m1s44ms).
+2021-10-07 09:09:55.563 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m31s846ms).
+2021-10-07 09:10:18.765 DEBUG [][] [http-nio-8888-exec-4] c.e.c.dao.UserDao.addUser:137 - ==>  Preparing: INSERT INTO user (user) VALUES (?)
+2021-10-07 09:10:18.765 DEBUG [][] [http-nio-8888-exec-4] c.e.c.dao.UserDao.addUser:137 - ==> Parameters: cx(String)
+2021-10-07 09:10:18.767 DEBUG [][] [http-nio-8888-exec-4] c.e.c.dao.UserDao.addUser:137 - <==    Updates: 1
+2021-10-07 09:17:00.223 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m55s970ms).
+2021-10-07 09:22:26.382 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m56s147ms).
+2021-10-07 09:27:58.766 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m2s382ms).
+2021-10-07 09:29:23.761 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s957ms).
+2021-10-07 09:34:55.737 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m1s942ms).
+2021-10-07 09:36:28.974 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m3s200ms).
+2021-10-07 09:41:55.023 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m56s29ms).
+2021-10-07 09:49:15.728 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m20s705ms).
+2021-10-07 10:23:39.894 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m24s166ms).
+2021-10-07 10:38:41.829 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m1s935ms).
+2021-10-07 10:53:46.182 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m4s353ms).
+2021-10-07 11:08:50.721 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m4s539ms).
+2021-10-07 11:23:56.008 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m5s287ms).
+2021-10-07 11:53:47.840 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m51s832ms).
+2021-10-07 14:53:50.388 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h2s548ms).
+2021-10-07 15:32:29.518 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m39s130ms).
+2021-10-07 15:33:59.162 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:780 - HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s641ms), soft-evicting connections from pool.
+2021-10-07 15:45:28.231 INFO  [][] [SpringApplicationShutdownHook] c.z.hikari.HikariDataSource:350 - HikariPool-1 - Shutdown initiated...
+2021-10-07 15:45:28.239 INFO  [][] [SpringApplicationShutdownHook] c.z.hikari.HikariDataSource:352 - HikariPool-1 - Shutdown completed.
+2021-10-07 15:45:32.096 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:55 - Starting CxBackendApplication using Java 1.8.0_211 on localhost with PID 30830 (/Users/tangguoliang/Downloads/code/cx-backend/target/classes started by tangguoliang in /Users/tangguoliang/Downloads/code/cx-backend)
+2021-10-07 15:45:32.100 DEBUG [][] [restartedMain] c.e.c.CxBackendApplication:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-07 15:45:32.100 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:663 - The following profiles are active: local
+2021-10-07 15:45:34.179 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:61 - Started CxBackendApplication in 2.658 seconds (JVM running for 3.429)
+2021-10-07 16:11:10.611 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:55 - Starting CxBackendApplication using Java 1.8.0_211 on localhost with PID 31243 (/Users/tangguoliang/Downloads/code/cx-backend/target/classes started by tangguoliang in /Users/tangguoliang/Downloads/code/cx-backend)
+2021-10-07 16:11:10.615 DEBUG [][] [restartedMain] c.e.c.CxBackendApplication:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-07 16:11:10.616 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:663 - The following profiles are active: local
+2021-10-07 16:11:12.243 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:61 - Started CxBackendApplication in 2.17 seconds (JVM running for 2.832)
+2021-10-07 16:12:01.489 INFO  [][] [http-nio-8888-exec-1] c.z.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2021-10-07 16:12:01.872 INFO  [][] [http-nio-8888-exec-1] c.z.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2021-10-07 16:12:01.908 DEBUG [][] [http-nio-8888-exec-1] c.e.c.dao.UserDao.addUser:137 - ==>  Preparing: INSERT INTO user (user) VALUES (?)
+2021-10-07 16:12:01.934 DEBUG [][] [http-nio-8888-exec-1] c.e.c.dao.UserDao.addUser:137 - ==> Parameters: cx(String)
+2021-10-07 16:12:01.937 DEBUG [][] [http-nio-8888-exec-1] c.e.c.dao.UserDao.addUser:137 - <==    Updates: 1
+2021-10-07 16:13:23.969 DEBUG [][] [http-nio-8888-exec-2] c.e.c.dao.UserDao.addUser:137 - ==>  Preparing: INSERT INTO user (user) VALUES (?)
+2021-10-07 16:13:23.970 DEBUG [][] [http-nio-8888-exec-2] c.e.c.dao.UserDao.addUser:137 - ==> Parameters: cx(String)
+2021-10-07 16:13:23.973 DEBUG [][] [http-nio-8888-exec-2] c.e.c.dao.UserDao.addUser:137 - <==    Updates: 1
+2021-10-07 16:13:51.352 DEBUG [][] [http-nio-8888-exec-3] c.e.c.dao.UserDao.addUser:137 - ==>  Preparing: INSERT INTO user (user) VALUES (?)
+2021-10-07 16:13:51.353 DEBUG [][] [http-nio-8888-exec-3] c.e.c.dao.UserDao.addUser:137 - ==> Parameters: cx(String)
+2021-10-07 16:13:51.354 DEBUG [][] [http-nio-8888-exec-3] c.e.c.dao.UserDao.addUser:137 - <==    Updates: 1
+2021-10-07 16:13:58.870 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627747200000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.871 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627833600000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.872 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627920000000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.873 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628006400000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.874 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628092800000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.875 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628179200000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.876 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628265600000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.877 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628352000000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.878 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628438400000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.878 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628524800000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.879 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628611200000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.879 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628697600000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.880 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628784000000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.881 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628870400000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.882 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628956800000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.883 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629043200000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.884 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629129600000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.885 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629216000000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.885 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629302400000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.886 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629388800000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.887 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629475200000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.887 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629561600000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.888 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629648000000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.889 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629734400000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.890 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629820800000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.891 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629907200000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.892 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629993600000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.892 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630080000000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.893 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630166400000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.894 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630252800000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.894 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630339200000,"other":6107.07612903226,"percent":18.0,"personal":25925.3087096774,"salary":112.861849032258}
+2021-10-07 16:13:58.895 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"other":189319.36,"personal":803684.57,"salary":3498.71732}
+2021-10-07 16:13:58.895 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 16:13:58.896 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:76 - 33条数据，开始存储数据库！
+2021-10-07 16:13:58.901 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:78 - 存储数据库成功！
+2021-10-07 16:13:58.901 INFO  [][] [http-nio-8888-exec-4] c.e.c.util.UploadDataListener:69 - 所有数据解析完成！
+2021-10-07 16:16:27.909 INFO  [][] [SpringApplicationShutdownHook] c.z.hikari.HikariDataSource:350 - HikariPool-1 - Shutdown initiated...
+2021-10-07 16:16:27.915 INFO  [][] [SpringApplicationShutdownHook] c.z.hikari.HikariDataSource:352 - HikariPool-1 - Shutdown completed.
+2021-10-07 16:16:32.043 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:55 - Starting CxBackendApplication using Java 1.8.0_211 on localhost with PID 31386 (/Users/tangguoliang/Downloads/code/cx-backend/target/classes started by tangguoliang in /Users/tangguoliang/Downloads/code/cx-backend)
+2021-10-07 16:16:32.046 DEBUG [][] [restartedMain] c.e.c.CxBackendApplication:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-07 16:16:32.046 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:663 - The following profiles are active: local
+2021-10-07 16:16:33.630 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:61 - Started CxBackendApplication in 2.084 seconds (JVM running for 2.771)
+2021-10-07 16:17:00.585 INFO  [][] [http-nio-8888-exec-1] c.z.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2021-10-07 16:17:00.872 INFO  [][] [http-nio-8888-exec-1] c.z.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2021-10-07 16:17:01.310 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627747200000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.311 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627833600000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.312 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627920000000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.313 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628006400000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.314 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628092800000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.315 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628179200000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.316 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628265600000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.316 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628352000000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.317 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628438400000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.320 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628524800000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.320 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628611200000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.321 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628697600000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.322 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628784000000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.322 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628870400000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.323 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628956800000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.324 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629043200000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.326 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629129600000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.327 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629216000000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.328 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629302400000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.329 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629388800000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.330 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629475200000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.331 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629561600000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.332 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629648000000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.333 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629734400000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.334 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629820800000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.335 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629907200000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.336 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629993600000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.337 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630080000000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.338 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630166400000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.338 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630252800000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.340 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630339200000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 16:17:01.341 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"other":189319,"personal":803684,"salary":3498}
+2021-10-07 16:17:01.344 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 16:17:01.345 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:76 - 33条数据，开始存储数据库！
+2021-10-07 16:17:01.351 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:78 - 存储数据库成功！
+2021-10-07 16:17:01.352 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:69 - 所有数据解析完成！
+2021-10-07 16:22:50.526 DEBUG [][] [http-nio-8888-exec-2] c.e.c.dao.UserDao.addUser:137 - ==>  Preparing: INSERT INTO user (user) VALUES (?)
+2021-10-07 16:22:50.548 DEBUG [][] [http-nio-8888-exec-2] c.e.c.dao.UserDao.addUser:137 - ==> Parameters: cx(String)
+2021-10-07 16:22:50.555 DEBUG [][] [http-nio-8888-exec-2] c.e.c.dao.UserDao.addUser:137 - <==    Updates: 1
+2021-10-07 16:26:33.113 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m2s109ms).
+2021-10-07 16:58:58.228 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m25s117ms).
+2021-10-07 17:06:31.340 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m33s112ms).
+2021-10-07 17:08:17.775 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627747200000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.776 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627833600000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.777 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627920000000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.778 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628006400000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.779 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628092800000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.780 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628179200000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.781 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628265600000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.781 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628352000000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.782 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628438400000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.783 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628524800000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.783 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628611200000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.783 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628697600000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.784 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628784000000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.784 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628870400000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.785 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628956800000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.785 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629043200000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.786 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629129600000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.787 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629216000000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.787 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629302400000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.788 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629388800000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.789 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629475200000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.790 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629561600000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.790 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629648000000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.791 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629734400000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.791 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629820800000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.792 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629907200000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.792 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629993600000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.792 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630080000000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.793 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630166400000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.793 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630252800000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.794 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630339200000,"other":6107,"percent":18,"personal":25925,"salary":112}
+2021-10-07 17:08:17.795 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"other":189319,"personal":803684,"salary":3498}
+2021-10-07 17:08:17.796 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 17:08:17.796 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:76 - 33条数据，开始存储数据库！
+2021-10-07 17:08:17.797 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:78 - 存储数据库成功！
+2021-10-07 17:08:17.798 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:69 - 所有数据解析完成！
+2021-10-07 17:36:40.604 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m9s345ms).
+2021-10-07 17:53:48.202 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m7s598ms).
+2021-10-07 23:27:49.721 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:55 - Starting CxBackendApplication using Java 1.8.0_211 on tangguoliangdeMacBook-Pro.local with PID 2451 (/Users/tangguoliang/Downloads/code/cx-backend/target/classes started by tangguoliang in /Users/tangguoliang/Downloads/code/cx-backend)
+2021-10-07 23:27:49.726 DEBUG [][] [restartedMain] c.e.c.CxBackendApplication:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-07 23:27:49.726 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:663 - The following profiles are active: local
+2021-10-07 23:27:51.947 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:61 - Started CxBackendApplication in 2.916 seconds (JVM running for 3.659)
+2021-10-07 23:28:45.923 INFO  [][] [http-nio-8888-exec-1] c.z.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2021-10-07 23:28:46.314 INFO  [][] [http-nio-8888-exec-1] c.z.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2021-10-07 23:28:46.368 DEBUG [][] [http-nio-8888-exec-1] c.e.c.dao.UserDao.addUser:137 - ==>  Preparing: INSERT INTO user (user) VALUES (?)
+2021-10-07 23:28:46.396 DEBUG [][] [http-nio-8888-exec-1] c.e.c.dao.UserDao.addUser:137 - ==> Parameters: cx(String)
+2021-10-07 23:28:46.401 DEBUG [][] [http-nio-8888-exec-1] c.e.c.dao.UserDao.addUser:137 - <==    Updates: 1
+2021-10-07 23:28:54.344 DEBUG [][] [http-nio-8888-exec-2] c.e.c.dao.UserDao.addUser:137 - ==>  Preparing: INSERT INTO user (user) VALUES (?)
+2021-10-07 23:28:54.345 DEBUG [][] [http-nio-8888-exec-2] c.e.c.dao.UserDao.addUser:137 - ==> Parameters: cx(String)
+2021-10-07 23:28:54.347 DEBUG [][] [http-nio-8888-exec-2] c.e.c.dao.UserDao.addUser:137 - <==    Updates: 1
+2021-10-07 23:29:10.950 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.951 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.951 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.951 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.952 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.953 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.954 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.954 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.955 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.955 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.955 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.956 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.957 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.957 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.957 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.958 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.958 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.959 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.959 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.959 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.960 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.960 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.961 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.961 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.962 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.962 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.963 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.963 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.964 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.964 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.965 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.965 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.965 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.966 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.966 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.966 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.966 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.967 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.967 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.967 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.968 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.968 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.969 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.969 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.970 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.970 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.971 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.971 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.971 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.971 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.972 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.972 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.973 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.973 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.974 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.974 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.974 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.974 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.975 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.975 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.975 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.976 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.976 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.977 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.977 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.977 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.978 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.978 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.978 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.978 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.979 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.979 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.980 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.980 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.981 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.981 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.981 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.981 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.982 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.982 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.982 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.983 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.983 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.983 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.984 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.984 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.984 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.985 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.985 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.985 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.985 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.986 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.986 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.986 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.988 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.988 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.988 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.989 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.989 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.990 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.990 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.990 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.990 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.991 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.991 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.991 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.992 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.992 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.992 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.992 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.992 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.993 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.993 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.993 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.993 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.994 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.994 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.994 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.995 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.995 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.995 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.996 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.996 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.997 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.998 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.998 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:10.999 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.000 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.000 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.000 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.001 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.001 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.001 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.001 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.002 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.002 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.002 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.002 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.002 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.003 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.003 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.003 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.003 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:29:11.004 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:76 - 143条数据，开始存储数据库！
+2021-10-07 23:29:11.009 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:78 - 存储数据库成功！
+2021-10-07 23:29:11.009 INFO  [][] [http-nio-8888-exec-3] c.e.c.util.UploadDataListener:69 - 所有数据解析完成！
+2021-10-07 23:41:17.305 DEBUG [][] [http-nio-8888-exec-4] c.e.c.dao.UserDao.addUser:137 - ==>  Preparing: INSERT INTO user (user) VALUES (?)
+2021-10-07 23:41:17.306 DEBUG [][] [http-nio-8888-exec-4] c.e.c.dao.UserDao.addUser:137 - ==> Parameters: cx(String)
+2021-10-07 23:41:17.307 DEBUG [][] [http-nio-8888-exec-4] c.e.c.dao.UserDao.addUser:137 - <==    Updates: 1
+2021-10-07 23:44:48.937 WARN  [][] [HikariPool-1 housekeeper] c.z.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m32s190ms).
+2021-10-07 23:48:16.272 INFO  [][] [SpringApplicationShutdownHook] c.z.hikari.HikariDataSource:350 - HikariPool-1 - Shutdown initiated...
+2021-10-07 23:48:16.281 INFO  [][] [SpringApplicationShutdownHook] c.z.hikari.HikariDataSource:352 - HikariPool-1 - Shutdown completed.
+2021-10-07 23:48:20.990 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:55 - Starting CxBackendApplication using Java 1.8.0_211 on tangguoliangdeMacBook-Pro.local with PID 3066 (/Users/tangguoliang/Downloads/code/cx-backend/target/classes started by tangguoliang in /Users/tangguoliang/Downloads/code/cx-backend)
+2021-10-07 23:48:20.993 DEBUG [][] [restartedMain] c.e.c.CxBackendApplication:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-07 23:48:20.993 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:663 - The following profiles are active: local
+2021-10-07 23:48:22.525 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:61 - Started CxBackendApplication in 1.951 seconds (JVM running for 2.766)
+2021-10-07 23:48:35.111 INFO  [][] [http-nio-8888-exec-1] c.z.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2021-10-07 23:48:35.432 INFO  [][] [http-nio-8888-exec-1] c.z.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2021-10-07 23:48:36.001 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627747200000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.002 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627833600000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.003 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627920000000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.004 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628006400000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.005 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628092800000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.010 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628179200000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.011 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628265600000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.012 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628352000000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.013 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628438400000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.014 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628524800000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.015 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628611200000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.016 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628697600000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.017 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628784000000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.018 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628870400000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.019 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628956800000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.020 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629043200000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.021 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629129600000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.022 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629216000000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.024 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629302400000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.027 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629388800000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.028 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629475200000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.029 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629561600000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.031 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629648000000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.032 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629734400000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.033 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629820800000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.034 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629907200000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.035 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629993600000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.036 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630080000000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.036 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630166400000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.037 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630252800000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.038 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630339200000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:48:36.039 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"other":"189319.36","personal":"803684.57","salary":"3498.72"}
+2021-10-07 23:48:36.041 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:48:36.042 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:76 - 33条数据，开始存储数据库！
+2021-10-07 23:48:36.047 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:78 - 存储数据库成功！
+2021-10-07 23:48:36.047 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:69 - 所有数据解析完成！
+2021-10-07 23:58:33.394 INFO  [][] [SpringApplicationShutdownHook] c.z.hikari.HikariDataSource:350 - HikariPool-1 - Shutdown initiated...
+2021-10-07 23:58:33.403 INFO  [][] [SpringApplicationShutdownHook] c.z.hikari.HikariDataSource:352 - HikariPool-1 - Shutdown completed.
+2021-10-07 23:58:38.239 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:55 - Starting CxBackendApplication using Java 1.8.0_211 on tangguoliangdeMacBook-Pro.local with PID 3186 (/Users/tangguoliang/Downloads/code/cx-backend/target/classes started by tangguoliang in /Users/tangguoliang/Downloads/code/cx-backend)
+2021-10-07 23:58:38.241 DEBUG [][] [restartedMain] c.e.c.CxBackendApplication:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-07 23:58:38.242 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:663 - The following profiles are active: local
+2021-10-07 23:58:40.011 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:61 - Started CxBackendApplication in 2.29 seconds (JVM running for 3.028)
+2021-10-07 23:59:19.120 INFO  [][] [http-nio-8888-exec-1] c.z.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2021-10-07 23:59:19.420 INFO  [][] [http-nio-8888-exec-1] c.z.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2021-10-07 23:59:19.825 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627747200000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.826 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627833600000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.827 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1627920000000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.829 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628006400000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.829 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628092800000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.831 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628179200000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.832 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628265600000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.834 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628352000000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.835 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628438400000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.835 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628524800000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.836 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628611200000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.837 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628697600000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.838 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628784000000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.838 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628870400000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.839 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1628956800000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.841 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629043200000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.842 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629129600000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.843 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629216000000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.845 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629302400000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.846 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629388800000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.847 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629475200000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.848 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629561600000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.849 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629648000000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.850 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629734400000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.851 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629820800000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.852 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629907200000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.853 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1629993600000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.853 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630080000000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.854 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630166400000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.854 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630252800000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.855 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"date":1630339200000,"other":"6107.08","percent":"18.00","personal":"25925.30871","salary":"112.86"}
+2021-10-07 23:59:19.856 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{"other":"189319.36","personal":"803684.57","salary":"3498.72"}
+2021-10-07 23:59:19.858 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:50 - 解析到一条数据:{}
+2021-10-07 23:59:19.859 INFO  [][] [http-nio-8888-exec-1] c.e.c.util.UploadDataListener:76 - 33条数据，开始存储数据库！
+2021-10-07 23:59:19.909 DEBUG [][] [http-nio-8888-exec-1] c.e.c.d.UploadDao.saveLogistic:137 - ==>  Preparing: insert into logistic(date, personal, other,salary,percent) values (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?) , (?, ?, ?,?,?)
+2021-10-07 23:59:19.942 DEBUG [][] [http-nio-8888-exec-1] c.e.c.d.UploadDao.saveLogistic:137 - ==> Parameters: 2021-08-01 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-02 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-03 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-04 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-05 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-06 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-07 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-08 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-09 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-10 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-11 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-12 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-13 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-14 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-15 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-16 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-17 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-18 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-19 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-20 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-21 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-22 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-23 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-24 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-25 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-26 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-27 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-28 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-29 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-30 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), 2021-08-31 00:00:00.0(Timestamp), 25925.30871(String), 6107.08(String), 112.86(String), 18.00(String), null, 803684.57(String), 189319.36(String), 3498.72(String), null, null, null, null, null, null
+2021-10-07 23:59:20.029 ERROR [][] [http-nio-8888-exec-1] o.a.c.c.C.[.[.[.[dispatcherServlet]:175 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'date' cannot be null
+### The error may exist in file [/Users/tangguoliang/Downloads/code/cx-backend/target/classes/mapper/LogisticMapper.xml]
+### The error may involve com.example.cxbackend.dao.UploadDao.saveLogistic-Inline
+### The error occurred while setting parameters
+### SQL: insert into logistic(date, personal, other,salary,percent)         values                        (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)          ,              (?, ?, ?,?,?)
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'date' cannot be null
+; Column 'date' cannot be null; nested exception is java.sql.SQLIntegrityConstraintViolationException: Column 'date' cannot be null] with root cause
+java.sql.SQLIntegrityConstraintViolationException: Column 'date' cannot be null
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.logging.jdbc.PreparedStatementLogger.invoke(PreparedStatementLogger.java:59)
+	at com.sun.proxy.$Proxy78.execute(Unknown Source)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:47)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:197)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:427)
+	at com.sun.proxy.$Proxy63.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:272)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:62)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:152)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:85)
+	at com.sun.proxy.$Proxy64.saveLogistic(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy65.saveLogistic(Unknown Source)
+	at com.example.cxbackend.util.UploadDataListener.saveData(UploadDataListener.java:77)
+	at com.example.cxbackend.util.UploadDataListener.doAfterAllAnalysed(UploadDataListener.java:68)
+	at com.alibaba.excel.read.processor.DefaultAnalysisEventProcessor.endSheet(DefaultAnalysisEventProcessor.java:53)
+	at com.alibaba.excel.analysis.v07.XlsxSaxAnalyser.execute(XlsxSaxAnalyser.java:222)
+	at com.alibaba.excel.analysis.ExcelAnalyserImpl.analysis(ExcelAnalyserImpl.java:123)
+	at com.alibaba.excel.ExcelReader.read(ExcelReader.java:67)
+	at com.alibaba.excel.ExcelReader.read(ExcelReader.java:57)
+	at com.alibaba.excel.read.builder.ExcelReaderSheetBuilder.doRead(ExcelReaderSheetBuilder.java:65)
+	at com.example.cxbackend.service.UploadService.uploadExcel(UploadService.java:30)
+	at com.example.cxbackend.service.UploadService$$FastClassBySpringCGLIB$$a58df1bb.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:779)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
+	at com.example.cxbackend.service.UploadService$$EnhancerBySpringCGLIB$$d67964c1.uploadExcel(<generated>)
+	at com.example.cxbackend.controller.UploadController.addUser(UploadController.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1726)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.cxbackend.dao.UploadDao">
+    <insert id="saveLogistic" parameterType="com.example.cxbackend.entity.Logistic">
+        insert into logistic(date, personal, other, salary, percent)
+        values
+        <foreach collection="list" item="item" separator=",">
+            (#{item.date}, #{item.personal}, #{item.other}, #{item.salary}, #{item.percent})
+        </foreach>
+    </insert>
+</mapper>

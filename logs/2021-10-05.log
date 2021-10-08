@@ -1,0 +1,119 @@
+2021-10-05 22:14:34.420 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:55 - Starting CxBackendApplication using Java 1.8.0_211 on 192.168.2.21 with PID 16056 (/Users/tangguoliang/Downloads/code/cx-backend/target/classes started by tangguoliang in /Users/tangguoliang/Downloads/code/cx-backend)
+2021-10-05 22:14:34.425 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:663 - The following profiles are active: local
+2021-10-05 22:14:35.193 WARN  [][] [restartedMain] o.m.s.m.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.example.cxbackend]' package. Please check your configuration.
+2021-10-05 22:14:35.762 WARN  [][] [restartedMain] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userDao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.cxbackend.dao.UserDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2021-10-05 22:14:35.801 ERROR [][] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userDao in com.example.cxbackend.service.UserService required a bean of type 'com.example.cxbackend.dao.UserDao' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.cxbackend.dao.UserDao' in your configuration.
+
+2021-10-05 22:15:25.802 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:55 - Starting CxBackendApplication using Java 1.8.0_211 on 192.168.2.21 with PID 16068 (/Users/tangguoliang/Downloads/code/cx-backend/target/classes started by tangguoliang in /Users/tangguoliang/Downloads/code/cx-backend)
+2021-10-05 22:15:25.805 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:663 - The following profiles are active: local
+2021-10-05 22:15:25.844 WARN  [][] [restartedMain] o.s.b.c.c.ConfigDataEnvironment:258 - Property 'spring.profiles' imported from location 'class path resource [application-local.yml]' is invalid and should be replaced with 'spring.config.activate.on-profile' [origin: class path resource [application-local.yml] - 2:13]
+2021-10-05 22:15:26.439 WARN  [][] [restartedMain] o.m.s.m.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.example.cxbackend]' package. Please check your configuration.
+2021-10-05 22:15:26.917 WARN  [][] [restartedMain] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userDao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.cxbackend.dao.UserDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2021-10-05 22:15:26.948 ERROR [][] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userDao in com.example.cxbackend.service.UserService required a bean of type 'com.example.cxbackend.dao.UserDao' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.cxbackend.dao.UserDao' in your configuration.
+
+2021-10-05 22:16:12.199 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:55 - Starting CxBackendApplication using Java 1.8.0_211 on 192.168.2.21 with PID 16082 (/Users/tangguoliang/Downloads/code/cx-backend/target/classes started by tangguoliang in /Users/tangguoliang/Downloads/code/cx-backend)
+2021-10-05 22:16:12.203 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:663 - The following profiles are active: local
+2021-10-05 22:16:12.275 WARN  [][] [restartedMain] o.s.b.c.c.ConfigDataEnvironment:258 - Property 'spring.profiles' imported from location 'class path resource [application-local.yml]' is invalid and should be replaced with 'spring.config.activate.on-profile' [origin: class path resource [application-local.yml] - 2:13]
+2021-10-05 22:16:12.973 WARN  [][] [restartedMain] o.m.s.m.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.example.cxbackend]' package. Please check your configuration.
+2021-10-05 22:16:13.391 WARN  [][] [restartedMain] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userDao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.cxbackend.dao.UserDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2021-10-05 22:16:13.419 ERROR [][] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userDao in com.example.cxbackend.service.UserService required a bean of type 'com.example.cxbackend.dao.UserDao' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.cxbackend.dao.UserDao' in your configuration.
+
+2021-10-05 22:17:25.056 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:55 - Starting CxBackendApplication using Java 1.8.0_211 on 192.168.2.21 with PID 16096 (/Users/tangguoliang/Downloads/code/cx-backend/target/classes started by tangguoliang in /Users/tangguoliang/Downloads/code/cx-backend)
+2021-10-05 22:17:25.058 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:663 - The following profiles are active: local
+2021-10-05 22:17:25.654 WARN  [][] [restartedMain] o.m.s.m.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.example.cxbackend]' package. Please check your configuration.
+2021-10-05 22:17:26.104 WARN  [][] [restartedMain] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userDao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.cxbackend.dao.UserDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2021-10-05 22:17:26.132 ERROR [][] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userDao in com.example.cxbackend.service.UserService required a bean of type 'com.example.cxbackend.dao.UserDao' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.cxbackend.dao.UserDao' in your configuration.
+
+2021-10-05 22:21:37.427 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:55 - Starting CxBackendApplication using Java 1.8.0_211 on 192.168.2.21 with PID 16150 (/Users/tangguoliang/Downloads/code/cx-backend/target/classes started by tangguoliang in /Users/tangguoliang/Downloads/code/cx-backend)
+2021-10-05 22:21:37.429 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:663 - The following profiles are active: local
+2021-10-05 22:21:38.055 WARN  [][] [restartedMain] o.m.s.m.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.example.cxbackend]' package. Please check your configuration.
+2021-10-05 22:21:38.501 WARN  [][] [restartedMain] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userDao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.cxbackend.dao.UserDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2021-10-05 22:21:38.529 ERROR [][] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userDao in com.example.cxbackend.service.UserService required a bean of type 'com.example.cxbackend.dao.UserDao' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.cxbackend.dao.UserDao' in your configuration.
+
+2021-10-05 22:26:52.753 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:55 - Starting CxBackendApplication using Java 1.8.0_211 on 192.168.2.21 with PID 16226 (/Users/tangguoliang/Downloads/code/cx-backend/target/classes started by tangguoliang in /Users/tangguoliang/Downloads/code/cx-backend)
+2021-10-05 22:26:52.756 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:663 - The following profiles are active: local
+2021-10-05 22:26:54.380 WARN  [][] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer:61 - Unable to start LiveReload server
+2021-10-05 22:26:54.434 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:61 - Started CxBackendApplication in 2.108 seconds (JVM running for 2.596)
+2021-10-05 22:30:26.847 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:55 - Starting CxBackendApplication using Java 1.8.0_211 on 192.168.2.21 with PID 16296 (/Users/tangguoliang/Downloads/code/cx-backend/target/classes started by tangguoliang in /Users/tangguoliang/Downloads/code/cx-backend)
+2021-10-05 22:30:26.849 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:663 - The following profiles are active: local
+2021-10-05 22:30:28.338 INFO  [][] [restartedMain] c.e.c.CxBackendApplication:61 - Started CxBackendApplication in 1.917 seconds (JVM running for 2.447)

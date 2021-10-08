@@ -1,6 +1,9 @@
 spring:
   profiles:
-     active: local
+    active: local
+  devtools:
+    livereload:
+      port: 35730
 mybatis:
    mapperLocations: classpath:/mapper/*.xml
 
