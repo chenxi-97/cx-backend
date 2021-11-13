@@ -3,10 +3,7 @@ package com.example.cxbackend.controller;
 import com.alibaba.fastjson.JSONObject;
 import com.example.cxbackend.service.UploadService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
@@ -26,5 +23,10 @@ public class UploadController {
     @PostMapping("/uploadExcel")
     public JSONObject addUser(@RequestParam("file") MultipartFile file) throws IOException {
         return uploadService.uploadExcel(file);
+    }
+
+    @GetMapping("/listLogistic")
+    public JSONObject listLogistic() {
+        return uploadService.getAllLogistic();
     }
 }

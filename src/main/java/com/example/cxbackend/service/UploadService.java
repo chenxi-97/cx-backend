@@ -12,6 +12,7 @@ import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
+import java.util.List;
 
 /**
  * @Author: tangguoliang
@@ -29,5 +30,12 @@ public class UploadService {
     public JSONObject uploadExcel(MultipartFile multipartFile) throws IOException {
         EasyExcel.read(multipartFile.getInputStream(), Logistic.class, new UploadDataListener(uploadDao)).sheet().doRead();
         return CommonUtil.successJson();
+    }
+
+    public JSONObject getAllLogistic() {
+        List<Logistic> list = uploadDao.getAllLogistic();
+        JSONObject resultJson = new JSONObject();
+        resultJson.put("list",list);
+        return CommonUtil.successJson(resultJson);
     }
 }

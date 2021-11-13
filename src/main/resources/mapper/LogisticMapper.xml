@@ -2,6 +2,9 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
 <mapper namespace="com.example.cxbackend.dao.UploadDao">
+    <select id="getAllLogistic" resultType="com.example.cxbackend.entity.Logistic">
+        select * from logistic
+    </select>
     <insert id="saveLogistic" parameterType="com.example.cxbackend.entity.Logistic">
         insert into logistic(date, personal, other, salary, percent)
         values

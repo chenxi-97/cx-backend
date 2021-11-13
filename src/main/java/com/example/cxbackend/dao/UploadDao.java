@@ -15,4 +15,6 @@ import java.util.List;
 @Repository
 public interface UploadDao {
     int saveLogistic(List<Logistic> list);
+
+    List<Logistic> getAllLogistic();
 }
